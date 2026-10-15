@@ -1,0 +1,6 @@
+{
+  "name": "WorkWise AI",
+  "description": "Intelligent workforce planning and team optimization platform for skills matching, capacity balancing, and talent utilization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
